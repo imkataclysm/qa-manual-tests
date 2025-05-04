@@ -53,8 +53,7 @@
 
 **Status:** Pass/Fail  
 
-**Comments:** Error handling and UI behavior should be noted here
-
+**Comments:** Notes on any issues encountered, screenshots, etc.
 ---
 
 ### Test Case 3: Verify Login with Empty Fields
@@ -80,4 +79,4 @@
 
 **Status:** Pass/Fail  
 
-**Comments:** Ensure proper field validation and accessibility for error messages
+**Comments:** Notes on any issues encountered, screenshots, etc.
