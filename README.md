@@ -2,29 +2,29 @@
 
 ### Test Case 1: Verify Login Functionality
 
-Test ID: TC001 
+**Test ID:** TC001 
 
-Objective: Verify that user can log in with valid credentials  
+**Objective:** Verify that user can log in with valid credentials  
 
-Preconditions: User has a registered account
+**Preconditions:** User has a registered account
 
-Priority: High
+**Priority:** High
 
-Platform: Web (Google Chrome, Firefox)
+**Platform:** Web (Google Chrome, Firefox)
 
-Steps:  
+**Steps:**  
 - Open the login page of the application
 - Enter a valid username
 - Enter a valid password
 - Click the "Login" button  
 
-Expected Result: The user should be successfully logged in and redirected to the dashboard.
+**Expected Result:** The user should be successfully logged in and redirected to the dashboard.
 
-Actual Result: To be filled in during execution
+**Actual Result:** To be filled in during execution
 
-Status: Pass/Fail
+**Status:** Pass/Fail
 
-Comments: Notes on any issues encountered, screenshots, etc.
+**Comments:** Notes on any issues encountered, screenshots, etc.
 
 ---
 
