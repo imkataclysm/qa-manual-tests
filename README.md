@@ -1,15 +1,20 @@
 # Login Page – Manual Test Cases
 
-### Test Case 1: Valid Login
-- **Test ID:** TC_LOGIN_001  
+### Test Case 1: Verify Login Functionality
+- **Test ID:** TC001 
 - **Objective:** Verify that user can log in with valid credentials  
-- **Preconditions:** User has a registered account  
+- **Preconditions:** User has a registered account
+- **Priority:** High
+- **Platform:** Web (Google Chrome, Firefox)
 - **Steps:**  
-  1. Go to login page  
-  2. Enter valid email and password  
-  3. Click "Login" button  
-- **Expected Result:** User is redirected to the dashboard  
+  1. Open the login page of the application 
+  2. Enter a valid username  
+  3. Enter a valid password
+  4. Click the "Login" button  
+- **Expected Result:** The user should be successfully logged in and redirected to the dashboard.
+- **Actual Result:** To be filled in during execution
 - **Status:** Pass/Fail
+- **Comments:** Notes on any issues encountered, screenshots, etc.
 
 ---
 
