@@ -33,9 +33,13 @@
 ### Test Case 2: Login with Invalid Credentials
 
 **Test ID:** TC002  
+
 **Objective:** Ensure the system rejects incorrect login details  
+
 **Preconditions:** User does not use valid credentials  
+
 **Priority:** Medium  
+
 **Platform:** Web (Google Chrome, Firefox)  
 
 **Steps:**  
@@ -44,8 +48,11 @@
 - Click the "Login" button  
 
 **Expected Result:** The system should display an error message: "Invalid username or password."  
+
 **Actual Result:** To be filled in during execution  
+
 **Status:** Pass/Fail  
+
 **Comments:** Error handling and UI behavior should be noted here
 
 ---
@@ -53,9 +60,13 @@
 ### Test Case 3: Verify Login with Empty Fields
 
 **Test ID:** TC003  
+
 **Objective:** Confirm system handles empty login fields appropriately  
+
 **Preconditions:** None  
+
 **Priority:** Medium  
+
 **Platform:** Web (Google Chrome, Firefox)  
 
 **Steps:**  
@@ -64,6 +75,9 @@
 - Click the "Login" button  
 
 **Expected Result:** The system should display validation messages indicating that both fields are required  
+
 **Actual Result:** To be filled in during execution  
+
 **Status:** Pass/Fail  
+
 **Comments:** Ensure proper field validation and accessibility for error messages
