@@ -1,4 +1,3 @@
-# Login Page – Manual Test Cases
 # 🔐 Login Page – Manual Test Cases
 
 ---
